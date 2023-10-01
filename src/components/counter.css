@@ -1,0 +1,19 @@
+h1 {
+    font-size: 36px;
+    margin-left: 125px;
+}
+
+button {
+    font-size: 18px;
+    padding: 10px 20px;
+    margin: 0 10px;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    background-color:blueviolet;
+    color: white;
+}
+
+button:hover {
+    background-color: blue;
+}
